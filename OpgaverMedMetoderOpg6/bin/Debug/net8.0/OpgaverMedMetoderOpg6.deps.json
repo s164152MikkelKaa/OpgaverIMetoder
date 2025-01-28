@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OpgaverMedMetoderOpg6/1.0.0": {
+        "runtime": {
+          "OpgaverMedMetoderOpg6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpgaverMedMetoderOpg6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
